@@ -1,0 +1,19 @@
+{
+  "name": "horton_jackson",
+  "version": "1.0.0",
+  "description": "Jackson Horton's portfolio for  baseball stats.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "build": "postcss css/tailwind.min.css -o blah/tailwind.css"
+  },
+  "author": "1000 Martians",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.6.1",
+    "postcss-cli": "^6.1.3",
+    "tailwindcss": "^1.0.5"
+  }
+}
