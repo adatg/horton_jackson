@@ -1,0 +1,10 @@
+/* Center fix */ 
+
+.img-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    img {
+        height: auto;
+    }
+}
